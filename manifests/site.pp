@@ -1,43 +1,41 @@
-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
-IQlGTz/EsFVmN73IiM45zA==
+node default {
+  manageusers::create_account { talex_id:
+    name       => "talex_id",
+    uid        => "16400",
+    password   => '$6$BwIPxFhj$H8sVaMjoYYUMwXojt/uVdObPuMYKjvLbDNFZ.z1bCFy8DcO7vkWw4lqWAD6tKiAhnrrtntWr3biL4X67cYrq1/',
+    shell      => "/bin/bash",
+    groups     => ['sudo'],
+    sshkeytype => "ssh-rsa",
+    sshkey     => "AAAAB3NzaC1yc2EAAAADAQABAAACAQDB51QyzrsKloN72z3YDiFLHcVEe+TyFSv82GiChzd5bijJLFlrqERNsXh816UV6XZ+35hFDASGySOSDI5ZWe5MWA40DFHlyNpYMHxezD3BtJ803WEG8nK4Ze3LPdKLuCdAXhJBoHHrxXBIVwe+B35J5XdMJTxkB6QiVvbSJNNEQat+EbiKSXs5DofP0P7h6nhlIFX3s61ZLS8OLiwMB20fql91td7yKx01FcIDHVJ5f2AJOWybv5wtYkUgDhDNGhTmGK4tMzflRgLnKQtX26wSqa20UnjIsiXTxmiiPgNlUJUIZVzICWjAUCM9ISd8XOK8ezRsxtKu32IRMWE4S4u0DkuLlBI/BVmrbPjFrPY8MsTyGG04V8ejN2+iASNLNKcFBc5Y0zZwmyMUHZfBTz+6rRkrnQ6YgVsc/7qykQ5a237P8sMTaWygdt/pNOGFPz8sCAT2rgH2jPCYKjTwrMgrI2WKL3572mrUwI8q4YMT/hKnzV9dKW+8/o9JlcxtKvvdsEzXH2Lj1KWWIBrrsopNdhnuwRBX+y/nWBDj9DC3ZaHE/4R971JR2EYNiDKr4b6ot4LC0ITLrIq2PibGSx27jxP5sLIbPqzhB7r1U0IOoApRx5ZmOtUoupzdZi9M3QD/rT4VRTLo4oS86QxSUWs//os9yvxIXZzyridWxxiEPw==",
+  }
+
+  class { 'server':
+    packages        => ['vim', 'htop', 'tree', 'telnet', 'whois', 'screen', 'lvm2', 'mdadm'],
+    packages_ensure => 'latest',
+    apt_update_interval => 'daily', 
+    timezone => 'Europe/Moscow',
+    swap_enabled => true,
+  }
+
+  firewall { '100 allow http and https access':
+    port   => [80, 443],
+    proto  => tcp,
+    action => accept,
+  }
+
+  class {'postfix_satellite': }
+
+  class {'gitlab_cert': } ->
+  class { 'gitlab':
+    gitlab_branch => '7.3.0',
+    external_url => 'https://gitlab.kh.talex-id.net',
+    puppet_manage_config   => true,
+    puppet_manage_backups  => true,
+    puppet_manage_packages => true,
+    ssl_certificate        => '/etc/gitlab/ssl/gitlab.kh.talex-id.net.crt',
+    ssl_certificate_key    => '/etc/gitlab/ssl/gitlab.kh.talex-id.net.key',
+    redirect_http_to_https => true,
+    backup_keep_time       => 51840000, # In seconds, 5184000*10 = 60*10 days
+    gitlab_default_projects_limit => 100,
+  }
+}

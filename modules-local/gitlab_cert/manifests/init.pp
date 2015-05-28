@@ -1,13 +1,19 @@
-U2FsdGVkX1/jU74oE3PERb1nDL76YR0SKoziGZSKQSKlgvqoSjihbl5+Wn4YrlOj
-rcaoTKZhUF66FLHB6DiIxAMfW8WOT7nZDVhFNRRyejZMqR8y2oajLaxJ44r3KzEa
-ngV90NVSxiLAa19vdGwbdc7C8zmMDEyvsIoZtcQhoEXmK/o3HAbSqM+z2AyHBBsu
-TXJ1CmsIdZSxBHl11KGRUuUM2Bo6GWniXZ3e3K7WPqfnqxPEEeOybUTSMtJUmGRr
-1azt7uCshBWo9v0+dg8T/YLTHFUZx2geuSfodqb0M4O/sJs8XOWEkri11aVDKzX7
-9q73VxpULtI9K4oTQkrttKyiMHsTgMep+qpYF8SMlOukbaRrL4MOae2bQtNDaOWE
-AqY12dZYB4Qsik4kJSNkzylywFpBNZ55Kg1J5exdG3vhsc+zd7kb47gcGKPVBrv4
-Wou49/OTmeTiM87ktTy5qU4U//fpXdThn0+qGJs9V4Ff4OpvdhGN27e6Th7ZRbvS
-bxdGOK+apYB2Wvucm+XK3mlOgRcaJkQkmr7TcASwCxQqJHJcFKQEnHVDzLloQNQE
-SojfgtmbZEhMt1k4yUFLo5cC0BYBprnq53rdmlruuwPXo6nxZW6Bj3PNogbhVJRa
-/3OwRo4sDjGvSswmvG9UKMn9DDvzsYgW+DhA7uLhtXaLZRHHiKkrX8cNTjOdAvXq
-gYQt2mYsGxvYQtaLLV+fPOLQjpDuTEjPEOa3mnvQqNejpz36bc9g11wf8tSnMsub
-4l4bpL3c+hkTuDRIW2pscUsyC57IbCYsYBc+nxAd2bs=
+class gitlab_cert {
+  exec {'tkh_gitlab_dir':
+    command => "mkdir -p /etc/gitlab",
+    path => ['/bin', '/usr/bin'],
+    creates => '/etc/gitlab'
+  } ->
+  file {'tkh_gitlab_ssl_dir':
+    path => '/etc/gitlab/ssl',
+    ensure => 'directory',     
+  } ->
+  file {'tkh_gitlab_crt':
+    source => 'puppet:///modules/gitlab_cert/gitlab.kh.talex-id.net.crt',
+    path => '/etc/gitlab/ssl/gitlab.kh.talex-id.net.crt',
+  } ->
+  file {'tkh_gitlab_key':
+    source => 'puppet:///modules/gitlab_cert/gitlab.kh.talex-id.net.key',
+    path => '/etc/gitlab/ssl/gitlab.kh.talex-id.net.key',
+  }
+}

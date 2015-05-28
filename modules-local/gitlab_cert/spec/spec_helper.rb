@@ -1,9 +1,17 @@
-U2FsdGVkX1/jU74oE3PERdQJU9zYjhsU8dZWLYH8745h3DPcNdXtSD25xuD74IKx
-8mgSa1o+3YIqv6aoKYFMUMaP/kG1qJ2CA7Dgf3zddVov0Qwz3L0izUIykq/5YHCg
-kEJ9DMNfs9VTg2s5cQPSdoLpXCqqpFLE2vJdqaOgfhZyffW6ZuBJsP+MPHSeFzT1
-zcKSTZNtRl1iX1OBU9wANV5Koi4cYsbdQhK9dCALYei/sg86N3XXzfqDpLslMRCV
-t0RC+VdbpnGYjN5BNZ7MQyUQwyu2GAwI6r33oTjGQVlCpGU+jndZAlG3OiH6zTqE
-c09Vhqx2W2fJhHe9ALf6rnVmlhMf+aOchknoolv6ycmzgaEHZV+oP+pGwkHVi6Q+
-xAZ1KX9ilFdvfv+g/SOgUKrT9qVPCq6R/vkKO2Un2zbV3qE16loUGuXO6xF3R0+J
-6EPZGmqBgXJXCsf5+0tiKLHcia463/mMH2/2JQzV8fMxAbodwozuV5gnLqa7Taua
-HfwgX4XANv597pxxkn2xiAboItnzY/Ad27LAc3+HAn1xDhGfj5h4P3LbLYuE1opH
+dir = File.expand_path(File.dirname(__FILE__))
+$LOAD_PATH.unshift File.join(dir, 'lib')
+
+require 'mocha'
+require 'puppet'
+require 'rspec'
+require 'spec/autorun'
+
+Spec::Runner.configure do |config|
+    config.mock_with :mocha
+end
+
+# We need this because the RAL uses 'should' as a method.  This
+# allows us the same behaviour but with a different method name.
+class Object
+    alias :must :should
+end

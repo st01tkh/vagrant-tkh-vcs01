@@ -1,2 +1,4 @@
-U2FsdGVkX1/jU74oE3PERfMvfvtSUio6VUnYIs0r5uVxuNFg4FO0y/fxYDw5eb+T
-0p9A3GKbXAvwgDWXb7p2kxO4Ey0Sp8Dfp0DCG5RQKT4=
+@ECHO OFF
+
+CALL "%~dp0vars.cmd"
+CALL "%vagrantfile_c_ic%"

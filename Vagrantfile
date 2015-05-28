@@ -1,52 +1,62 @@
-U2FsdGVkX1/jU74oE3PERVIyKd7SlM8lJTbsB75drWRrLwGbxzsohkES1zae0KzF
-L0Smi2wcGPiHE4+Lm+wkIU9RyD25acED/gMdKu/woJ0gQ5oGn1WCsshtvs/4e217
-8tMCDGHMl8Za8J4YwHAeONy087UwFspeevQgiScTb2iaiFLbqLXx09vwZuZ0yz+N
-eXGOFcCVbVdCe0aBc80kVD5YbZfdgRLO1KIhUnbmt6sePxfNAv9sn17MDxMzwczd
-N+i4jzrUykBaSSppZZYlZhLQcIfiKhlnZ9AIF4JZhO9jM9adftzj/QhVQw49mujP
-w5YhUVhjEsJO3BW2gEs326YAWzbwcuUIk1N4PsPiQwV6oKNe4068Ps7WwYCMbftR
-HjY7j8MSpcKC8Fj8aKnHWZun/iSjoWc5lMOpY/uRQK9Exeitq7eyuAviwLO6AjCr
-F1qlH1j26ZD1rINcwi1aNjb9tQ6xWXbm7P99KfonzXJvX+lXddOJ1ybcUL1cnLcD
-mQd4UHSzFpa+AIlG2uiCGHS4BruN/dwaPmSmFbRorccoIaSKu06el9SEtgMlb2uP
-Dg/CvIPIjWO+auMFJvtOi+oRan8MSe0GdEwuM/AK4w46Loe4uCfo91Yn47+76To1
-4apHQIVEwfWuw3khO93qZt7i5vCh0Z2rhLiVYF8T7Xs3YvAdxeNgfFU10q2j5Q1U
-gort7Aylk+0CCKxX1YfjmKxSKtKlA97dtcLDefInxV0cdz5MNIEXcmP7nZb/B5k/
-1deCAIUbzsuBJw4Okk02jD3VCgcJT7yqpIn4IwZqOkslp/NSK0M1Bw/taVmK8gKJ
-WLtloBhlQSSNb3VlC1bfkXAgLcgmYm6YK9J+GzkcaPgcq58qy6SRJhN5b/OxYzIZ
-ZKjxBBIMQM3c19OM7j/x3rCDpwcYDs6OWlvmKBS7d3MdnAyxUnpaxTKpS9vG9lyt
-xw7T/N99+bpXKc21TYnncpaD1/bs/vp9QhcjddtcfLMwkgiOAHcJgpb9UsV1TkS+
-0eTj42tNGcHa39up4kmoI6OCs+1YM2RNHWXoltohDFVkPUOaH/lyjcoDklRtkiyb
-rXE4HXPxQ7x/pZumoqp/wMmYULhNGCcnUos9xuKtLoeeEV238N+PDymqyj/Yc/Jv
-fi2aSDmCO6oZBwP8JS11SjVsqR6WHyiTU6t3aY2urP3fttpRkL5kyHZZU5nBRQpR
-SffRl1sn39XNFtMr7S1Os7IhegxD0wXP6J4Z6fe5scJ9M82mxn5UVF0MrgeuTlJE
-K+xeHd129ABns0RFmr0KsV9dCCWVpd+0Db4o55eJa8fdMgotYuqZ6ZMXHqhHu3Hv
-ox0P/hqj+O47YliTl7Knl1toHjFadv1J7SwnyVMFGbpeG/xF5agLJDgwOI9Gbj5W
-isH6/eo/f413gxtA4vLtwL5c4UGUIQWNkq7/C+lFwp/I9Vsgo0hasK63+iP01SD7
-MocTxI4YaPPDbDK++nXHwU37hprHg/PFRQ25Das5JKM3XSmfaalohL+RNXhEiYDz
-8tqiZufLPGySZk+wjNE+3BRA7716MQ7IITSAnHrWl9voBg+nxJ6ARGmuBobAPRd2
-ggNHlOhx9FmyjKTG30Y7HdvHpBU5XF6KJbhY0P8y4cfUAmVwu3G7ucuLT1XejxPt
-B3GYiKSQLu7rTeOpVQrhnbij2DxjSaTVN8vYA5TlfYhDaN+A/+a9qLSK8L8EK5Eq
-9TqyKsjPXdTzyK6yR64fLKdFT4ddj9hTuno/qmR6jmZ/vB/ln3CVWgtfTtvhfw/v
-DK/c4EQxDwncaui2KEZ+3CB+D0+3/Z00WmUfyzlR6L42zn0F6jQtq7Rw2OsUUJ+3
-muJL3H2q9bO7iSKq0WI+2d4MT7nAnzxZNvtqJAGh9yNBOF7oISGnef2/zsUws796
-M5hGThaXn+1rYzKX+NysTssaq5PBYcwhSWoYBOUU/ZSoloyGZKEpmVcxCBvfeX9Q
-nrnLnVehViTrkmMz2FA/06q3Z8KiBNG/hhYwUYSt8lg+Pes6zDYDdcr7oD/sLXEk
-5IIHMPz+x/Rbd5fAzyYlFj8YuHApW+5d06DKnciTAavgsK04pWDvcW7E6+SdgWzp
-PzCeUTTUfcjJlLP1RoJFuwFEoSKhqwMph2t8DSeuqOXI02VFMKPgt6csfhgeB7hG
-b4H4/bZgU9zgQCPfUxk4nDDev7HjZ2v5BrRqf9WfapOJDK46I+WV/VzcLv0O3yzl
-g+u+BhreSWz70MO6Ty+Uo8XPlL0A50QQ+cIGQPR/6J2nc90wklKE9jpXAleGghSm
-44mnLd122bg0ZBjRV6yK/yFfX3zUJWrecoaSl7rsxL7Fz5S9AOdEEPnCBkD0f+id
-tQwBj8A2nWmP4GPWCLtlKpJ4v/jrNsCaeVuOUM1Qa+FMWRAw9SVz3SJZoDAVSQsD
-Ubfa0CSMmZhhJKUgpnecusXisNkaCjpfjzaEUenWkh1AtUbTLD6tydm2Dpwrs9DA
-yW5HbLssCDuULCJ8hZnhdv4N1hj5S2IcJCaaBUmC4UmQiB1a1cA+PRdsuDhwhn53
-lBE1rJbmvgMxdebFaI9nJJkOsYPshT0Ks8U8Ti0KmarSIOk5+Wcf/NDzvTLBz8np
-kijFiGY38ZUdp3C+2kfszJa9z39+TVIRyUhUeT6vZrJpHVQ/0HudJnPb9dMF8KfO
-5w5Wa7yUiC3Guzxr8k9Pbs44/CKHpgvOsmZ2Dsv17WPwLPVuohkPezuYfCmkQtUP
-4w67/okFZOJw5Bh5+OT5EziwOqGDt9guX/PWPTHsifo+tvLTtQXpHXsuqebk2/A7
-QLVG0yw+rcnZtg6cK7PQwKlq7Btye6lISUmFZGtg2ArAIHVHOSz08tuuy2nOCV1I
-AL7HFY4Kx3AryTmj2JCzXo3vbHUTHyGAPf1V8tYcHTbgtPqwCnROWm6fTpfpBo9U
-MTZiVdTLeCuD83FLSUAlSHMhYGhHO8teHk4WMu++ihyGDYegS/65CY/62VfoQNhY
-BvFtI4YJeAZ7kHC+WG2n9LeCWfeYCpc3Tj4ZvH0eubzD7PhGiDsY2pSNfKuR4Mut
-ze/GJHXkOqlFLF0tZqsUdqZ7U3Hn+3EK1BiRvDi8twrFUqgejW2UrabN02QY0o1a
-KGhGxh2Vfa9Js+paezvPYwrHuk30TcjoloOI8f3EiQsj0QB1488lSlogAZmxuoq+
-yZMdmGetAI35y2grh4Rfj4go03e/37UYltu08Pq90ULV3gm36f/veDzB5BRHLNqY
-nRg85Zf21Nreo7ic0Kze1g==
+# -*- mode: ruby -*-
+# vi: set ft=ruby :
+
+VAGRANTFILE_API_VERSION = "2"
+
+Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
+  config.vm.box = "ubuntu/trusty64"
+  config.vm.hostname = "tkh-vcs01"
+  config.vm.network "public_network", ip: "192.168.71.120", :mac => "080027b3b119"
+  config.vm.network :forwarded_port, guest: 80, host: 58080
+  config.ssh.forward_agent = true
+  config.vm.network :private_network, ip: "192.168.33.10"
+  #config.vm.synced_folder ".", "/etc/puppet/modules/gitlab"
+  #config.vm.provision "shell", path: "install-modules"
+  config.vm.provision "shell", path: "import_modules.sh"
+  config.vm.synced_folder ".", "/home/vagrant"
+  config.vm.provider "virtualbox" do |vb|
+    vb.gui = true
+    vb.customize ["modifyvm", :id, "--memory", "1024"]
+    vb.customize ["modifyvm", :id, "--cpus", "2"]
+    vb.customize ["modifyvm", :id, "--ioapic", "on"] #http://geekbacon.com/2013/02/26/cannot-set-more-than-1-cpu-in-vagrant/
+    vb.customize ["storageattach", :id, "--storagectl", "SATAController", "--port", "1", "--device", "0", "--type", "hdd", "--medium", "../../tkh-mobi-virt-disks/vcs01-data-disk0.vmdk"]
+  end
+
+  # Centos 6
+  config.vm.define "centos", autostart: false do |centosbox|
+    centosbox.vm.box = "centos-6_5-x64-virtualbox_4_3-plain"
+    centosbox.vm.box_url = "http://puppet-vagrant-boxes.puppetlabs.com/centos-65-x64-virtualbox-puppet.box"
+  end
+  
+  # Ubuntu 12.04
+  config.vm.define "ubuntu", autostart: false do |ubuntubox|
+    ubuntubox.vm.box = "ubuntu-12_04-x64-virtualbox_4_2_10-plain"
+    ubuntubox.vm.box_url = "http://puppet-vagrant-boxes.puppetlabs.com/ubuntu-server-12042-x64-vbox4210.box"
+  end
+
+  # Ubuntu 14.04
+  config.vm.define "trusty", primary: true do |trustybox|
+    trustybox.vm.box = "ubuntu/trusty64"
+  end
+  
+  # Sles 11 SP1
+  config.vm.define "sles", autostart: false do |slesbox|
+    slesbox.vm.box = "sles-11_sp1-x64-virtualbox_4_2_10-plain"
+    slesbox.vm.box_url = "http://puppet-vagrant-boxes.puppetlabs.com/sles-11sp1-x64-vbox4210.box"
+  end
+
+  # Debian 7
+  config.vm.define "debian", autostart: false do |debianbox|
+    debianbox.vm.box = "debian-7_3-x64-virtualbox_4_3-plain"
+    debianbox.vm.box_url = "http://puppet-vagrant-boxes.puppetlabs.com/debian-73-x64-virtualbox-puppet.box"
+  end
+
+  config.vm.provision "puppet" do |puppet|
+    #puppet.options = ["--certname gitlab_server"]
+    #logging = ENV['LOGGING']
+    #puppet.options << "--#{logging}" if ["verbose","debug"].include?(logging)
+    puppet.module_path = ["modules"]
+    puppet.manifests_path = "manifests"
+    puppet.manifest_file = "site.pp"
+  end
+end

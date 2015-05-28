@@ -1,8 +1,10 @@
-U2FsdGVkX1/jU74oE3PERWgaHK3bPoLUPlKwzKz02/GohP85h6an9W9p172qZBDp
-bGIoJzzcS6JIeEDNMmfSaCmWxVQSpMOcAJUjwxWgPoly3/V8jz+n80q3DVrPdLWT
-ZK2ottA2AzBm+11q6lPFnLjHeQguG0oQZFc1UtLSxjuO0Pjr/KK61WjC3KoCcSCm
-p1b4gWOEz16ZxOxZmwzBzWkjk2ndGYgSGWoRx5sAbF5CGghc4GxbeK6Mt83F1+6D
-7Ch1chFXS2xm7qHB8KG0nMvSdKu1UNMS4Vx/fpbZRUUwQfsDGL0ctnh1BG0y8bQV
-GNNVZ9CrS7uFl0rF2kakuHYTLBKHwdk77l1bkMpd7JwsuLYtu6HZfjmX1loR1RE3
-kSkWYbY4HxuQ46nnVUch3Rybg7HBoq6mtNysX/B+6REuqUjmqUBR6S5b+9m5YfHw
-edheCYqJEQo7c7QiLHMZNr9GeijHljOY5ain7bQ4tnI=
+name    'tkh-gitlab_cert'
+version '0.0.1'
+source 'UNKNOWN'
+source 'https://github.com/st01tkh/puppet-tkh_gitlab_cert'
+author 'st01tkh'
+license 'Apache License, Version 2.0'
+summary 'Site certificates'
+description 'Site certificates'
+project_page 'https://github.com/st01tkh/puppet-tkh_gitlab_cert'
+dependency 'puppetlabs/stdlib', '>= 1.0.0'

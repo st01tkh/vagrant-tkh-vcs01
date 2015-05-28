@@ -1,11 +1,14 @@
-U2FsdGVkX1/jU74oE3PERcPFfC9/JTHgwyWW6bprKtYrys0rr2ywvuz08ObATnph
-BWo2XUOIJCHtBQ7BnobynYg+I5+U4/AkH1Y+2sBvAurG6KihbrminVHLCyQI2v5W
-OifFXd9DbbhJzUlFCW4GRT29YTVoc6vYFwZMOfqQFDS0xIVLen1V/x0tCKquhOZc
-8B44i5rgSdempS8QnacDpMr18r7llbQ9P/YrcnaZJvv9Y0iC0pY+C1xeFCN+8wtU
-nBYnavjQSAkvZlOLiW25eLiQu3CFwOFJSeS8OsorcDhG6VwJetuXY/UpW3TPWJ9q
-uSo3XrBz6MMdlx7T2Sz2tq74fVhA4grYMeu5q8LG2EhBQ0zkqSJqU1fSwnfqJ1W+
-BJqwAhTZM3QOHALWpz53LX7r/9K9JMc8ufyB8/R6jvhBDSLw+P0EtRCRwVIpdyU+
-d61mzrZSBgHlod3zNwgLybiQu3CFwOFJSeS8OsorcDijg+ePQCpNet8dEpSLAgHq
-mkQBCse3vkO6FjIg/aip/2O2L5Gz2IaMIEl8eAh///kNtJo4WzYROU496KO6bWQj
-7g1/Q063XHJNwayfxMkHB2mfJqLocJiK6dkpHvkZykZKUIKdwhAkHV5pwi/7F/Ch
-IRsWY+UKPPH35EC9qVZTkwmJCmmBmgJTo2eFHQL6IY0=
+{
+  "name": "tkh-gitlab_cert",
+  "version": "0.0.1",
+  "author": "st01tkh",
+  "summary": "Site certificated",
+  "license": "Apache Version 2.0",
+  "source": "https://github.com/st01tkh/puppet-tkh_gitlab_cert",
+  "project_page": "https://github.com/st01tkh/puppet-tkh_gitlab_cert",
+  "issues_url": "https://github.com/st01tkh/puppet-tkh-tkh_gitlab_cert",
+  "description": "Site OpenSSL Certificates",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
