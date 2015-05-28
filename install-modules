@@ -1,6 +1,12 @@
-puppet module install --force puppetlabs/git && puppet apply -e 'include git'
-mv 'modules' 'modules.bak.20150501000303'
-puppet module install --force --modulepath='modules' duxklr/manageusers
-[ -e 'modules\server/.git/config' ] && cd 'modules\server' && git pull || (cd 'modules' && git clone https://github.com/mikegleasonjr/puppet-server server)
-[ -e 'modules\gitlab/.git/config' ] && cd 'modules\gitlab' && git pull || (cd 'modules' && git clone https://github.com/spuder/puppet-gitlab gitlab)
-cp -r 'modules-local/gitlab_cert' 'modules'
+U2FsdGVkX1/jU74oE3PERWUlYp6ueoronXQ1jvK+L+idwpJeAabKI/eZ6Wrcb/ei
+HGj41OHlmEq/5AaCO5aI80naTY/gCEiJtgjicarTpE8rvRzP0z4tETC5Rhu7kK7v
+I5ZwxGFee0gkDa4rlK3dDzaN8zHW2yHPlRbvgU5+G7x4srZuJ9dJdq4JnzehL6pT
+/A5ZPMu8u0R24ouxLHGlrw0f0kuJkf95Ykidf1Yu9byQMC3QIn1IAVLS7y5IfoyE
+zcOYRhTn0m1A4+kFeIrGk4mNoNtRf8iXaCKJdDUpybJAjQhhl8EF3JARIIE1sCf3
+4AgFzlK2oTToH7s09+RmnapRUQ7NkMYdqte0qu6vqrkz7RbTs21FXPOOEAwnGKGX
+8pRdnJ3VsNIOrt9Im0zfxXEY0mmAi91BFM8RompHNcxCAgIYLLX7d0YSmMs2gQ2q
+PiMs4aXHPiYlieUAK6gPkGIKa1psS1WVpcg5B9itJp3E+gR98w0Kx05AV+C4P8r6
+0Mv4cHqF/3vdCYskAX4vzvq12bfm49AsEnLi8WUc0XyKLPkT2sQ9PEqO1sOmq4CK
+0VgODaOi7iU8yN2/2sJjNqNfNPF9p8Lo5JBppP8uKkgc5oqyLOvgVGSxb72o3BCe
+15srTcOIq/NnVAK80EZcDy1sW9fxLX8W6M64p6bih+m+bk92aIfw/4RcSTTS/rui
+JI9kDVQuEl0AC/qYQKT5nPTT0kOVlyGEKuEMCbqJrX4=

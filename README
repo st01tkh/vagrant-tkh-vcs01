@@ -1,14 +1,5 @@
-Up
---
-run import_common.cmd
-run prep.cmd
-run vagrant up
-run clean.cmd
-
-Guest parameters
-----------------
-https://gitlab.kh.talex-id.net
-user: root
-pass: 5iveL!fe
-
-
+U2FsdGVkX1/jU74oE3PERToU87XEdlwjReqFCuCom0iPvP0Ux7ORGDqtxeIK8/PO
+jdh+IohFAqw3XyfrcBc/QKqMINCC02+8xxDHt0C9jarD1JVI7IOxzrxjQjTpZTr+
+mF+hycD4al6o6krbBwhho0XqD9elsErfhk0xMz3QXqiiHa8PdRSLlYJcDBNB/iie
+nmOBzdtBEtypdnDEmG2OY74snQYLbgSzU3sclV08OUi+ZiiZcWgernTyyVfxgmj4
+aMDmF31zs27lF8fYPxvqxw==

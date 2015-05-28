@@ -1,3 +1,2 @@
-@ECHO OFF
-
-CALL "%~dp0..\..\common\vagrantfile\vars.cmd"
+U2FsdGVkX1/jU74oE3PERfMvfvtSUio6VUnYIs0r5uV7x/UJ7e6gCX3BmIGA7S5y
+8l7wDLQiyWCIDWspI0HXd+8JzkvE0a8TuVWKsiEjd4M=

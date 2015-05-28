@@ -1,10 +1,11 @@
-# Puppetforge modules
-forge 'https://forgeapi.puppetlabs.com'
-
-mod 'duxklr/manageusers'
-mod 'mikegleasonjr/server', :git => 'https://github.com/mikegleasonjr/puppet-server'
-mod 'spuder/gitlab', :git => 'https://github.com/spuder/puppet-gitlab'
-mod 'AlexCline/mounts', :git => 'https://github.com/AlexCline/puppet-mounts'
-mod 'tkh/gitlab_cert', :path => 'modules-local/gitlab_cert'
-mod 'tkh/postfix_satellite', :path => 'modules-local/postfix_satellite'
-
+U2FsdGVkX1/jU74oE3PERXeBzGxkSa5xdr5iBduT5Svw4Bs6rIpiSwgPmVtW2lLu
+SgYoa1GA24WDMLagJWV2Jiik8ByJtrPzNuyK4ZbYZpT046pPa8ZEsjuj5a85Wegk
+semteM5R6XPVnk7r9RdLjOxfSGDcDacRQCs5MqvE2uwN94ZMEG1Jtd0N/EmsL8uH
+bB+3L5i7N100KO3ZMQXxz4Yc2ipjgBkdXUH11EyradfZ9kwCJ/UPh81NqKXtET3T
+QNvhFcE1ayDKvcOkAfXl24A6BtYqHQhEhh3HPqp3wX28+q6xMCx13Hdz4CXGL3rV
+ARQt3wdIwumvUzg+xfHwlW12blxHQD647sa9jf+L7qYJYfTPaUFKnciZSqoO0G+S
+VevhN29w54hmUyF297p10BOknXlTWhqz70m6MM3Ci6dWRLqg8tLpNS6TkKTtO8ng
+3NVC0hrGcEIFGHFKYGFB0tXAhCwAO/lrnT+AsV8SIYVxvealwnrovwnFPZGmAMXQ
+ZhkBEeXPu24wT7IPxZzdo5hw5AZmgAtI7zjdz/QdGazUnxTcThw9ehvGSyD5FS9k
+3AxwjgtORxZ8DjDYYijESTLi1Yr3lwbn5aOhaVsu2eQb0UWJ88PixOyfeA9tTcoU
+cQ4Rn4+YeD9y2y2LhNaKRw==
